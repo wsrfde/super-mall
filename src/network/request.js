@@ -15,7 +15,7 @@ export function request(config) {
   return new Promise((resolve, reject) => {
     const instance1 = axios.create({
       baseURL:'http://123.207.32.32:8000/api/hy',
-      timeout:5000
+      timeout:500
     });
     const instance2 = axios.create({
       baseURL:'http://106.54.54.237:8000/api/hy',
