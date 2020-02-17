@@ -838,11 +838,11 @@ FinalShell B站弹幕推荐
 
 不要认为数据发生改变，页面跟着更新是理所当然的
 
-![响应式图解](../img/Responsive/1.jpg)
+![响应式图解](./README-img/Responsive/1.jpg)
 
-![响应式自己理解1](../img/Responsive/2.jpg)
+![响应式自己理解1](./README-img/Responsive/2.jpg)
 
-![响应式自己理解2](../img/Responsive/3.jpg)
+![响应式自己理解2](./README-img/Responsive/3.jpg)
 
 ```js
 	const obj = {
@@ -916,8 +916,8 @@ FinalShell B站弹幕推荐
 
 ```
 
-![理解画图3](../img/Responsive/4.jpg)
-
+![理解画图3](./README-img/Responsive/4.jpg)
+s
 图片讲解：
 1. 从new Vue() => Observe   这里Observe其实就是defineProperty，来监听data改变
 2. Observe => Dep	一个属性对应一个Dep。如name对应一个，age对应一个。然后把订阅者添加到subs里。
