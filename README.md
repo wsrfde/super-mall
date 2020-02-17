@@ -838,11 +838,11 @@ FinalShell B站弹幕推荐
 
 不要认为数据发生改变，页面跟着更新是理所当然的
 
-![响应式图解](./img/Responsive/1.png)
+![响应式图解](../img/Responsive/1.png)
 
-![响应式自己理解1](./img/Responsive/2.png)
+![响应式自己理解1](../img/Responsive/2.png)
 
-![响应式自己理解2](./img/Responsive/3.png)
+![响应式自己理解2](../img/Responsive/3.png)
 
 ```js
 	const obj = {
@@ -916,7 +916,7 @@ FinalShell B站弹幕推荐
 
 ```
 
-![理解画图3](./img/Responsive/4.png)
+![理解画图3](../img/Responsive/4.png)
 
 图片讲解：
 1. 从new Vue() => Observe   这里Observe其实就是defineProperty，来监听data改变
