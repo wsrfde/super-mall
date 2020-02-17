@@ -2,7 +2,7 @@
 
 一个蘑菇街电商设计页面，使用了vue路由，vuex，轮播图，购物车计算，内容联动，封装思想，插件封装，事件总线，防抖函数，接口使用等技术，vue的技能点基本全部运用，同时使用第三方插件betterScroll来提高滚动流畅度，并解决了使用betterScroll的相关问题
 
-项目截图
+### 项目截图
 ![home](https://raw.githubusercontent.com/wsrfde/supermall/master/src/assets/Screenshot/home.png)
 ![homeNest](https://raw.githubusercontent.com/wsrfde/supermall/master/src/assets/Screenshot/homeNest.png)
 ![detail](https://raw.githubusercontent.com/wsrfde/supermall/master/src/assets/Screenshot/detail.png)
