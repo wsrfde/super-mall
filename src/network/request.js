@@ -2,9 +2,7 @@ import axios from 'axios'
 
 // export function request(config) {
 //   const instance1 = axios.create({
-//     //接口1   http://123.207.32.32:8000/api/hy
-//     //接口2   http://106.54.54.237:8000/api/hy
-//     baseURL:'http://123.207.32.32:8000/api/hy',
+//     baseURL:'接口',
 //     timeout:500
 //   });
 //
@@ -14,11 +12,11 @@ import axios from 'axios'
 export function request(config) {
   return new Promise((resolve, reject) => {
     const instance1 = axios.create({
-      baseURL:'http://123.207.32.32:8000/api/hy',
+      baseURL:'接口',
       timeout:500
     });
     const instance2 = axios.create({
-      baseURL:'http://106.54.54.237:8000/api/hy',
+      baseURL:'接口',
       timeout:5000
     });
 
